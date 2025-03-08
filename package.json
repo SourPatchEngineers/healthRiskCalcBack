@@ -1,0 +1,21 @@
+{
+  "name": "healthriskcalcback",
+  "version": "1.0.0",
+  "description": "The backend for the health risk calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SourPatchEngineers/healthRiskCalcBack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SourPatchEngineers/healthRiskCalcBack/issues"
+  },
+  "homepage": "https://github.com/SourPatchEngineers/healthRiskCalcBack#readme"
+}
